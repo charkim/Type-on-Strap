@@ -1,24 +1,24 @@
 # SITE CONFIGURATION
 baseurl: /
 url: "https://charkim.github.io"
-title: Always Programming # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Kihong's Story # site's title
+description: "Kihong's Life Story" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Programming Story # blog's title
+  title: Kihong's Story # blog's title
   avatar: #assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Kihong's IT 이야기</code></p>
+     <p>Kihong's Story</code></p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by KHKIM
+   Powered by Kihong Kim
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
